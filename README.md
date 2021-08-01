@@ -5,7 +5,7 @@ Terminology is a terminal emulator for Linux/BSD/UNIX systems
 Automatic install/update:
 
 ```shell
-bash -c "$(curl -LSs https://github.com/dfmgr/terminology/raw/master/install.sh)"
+bash -c "$(curl -LSs https://github.com/dfmgr/terminology/raw/main/install.sh)"
 ```
 
 Manual install:
